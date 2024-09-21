@@ -1,16 +1,7 @@
-# crud_app_using_api
+# Flutter Simple CRUD APP Using API
 
 Complete CRUD app with api integration
 
-## Getting Started
+## API Endpoint
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://raw.githubusercontent.com/rupomsoft/Flutter-Batch/main/Flutter/Source%20Code/24%20CRUD%20Project%20WITH%20Rest%20API/Postman%20Documentation/CRUD.postman_collection.json
